@@ -74,6 +74,13 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
+
+    labels[0]:{"texts":["타코는 멕시칸 유명 요리이다"]},
+    labels[1]:{"texts":["파스타는 이탈리아 유명 요리이다"]},
+    labels[2]:{"texts":["피자는 이탈리아 유명 반죽 요리이다"]},
+
+
+
 }
 
 # ======================

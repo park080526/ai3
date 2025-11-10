@@ -77,8 +77,8 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
     labels[0]:{"texts":["타코는 멕시칸 유명 요리이다"],
               "videos":["https://youtu.be/jFabzMoMERM?si=Xg4sUR_m-w2WM_Vb"]},
-    labels[1]:{"texts":["파스타는 이탈리아 유명 요리이다",
-            "videos":["https://youtu.be/-G478hXpaEk?si=V8RYcoWSRndMPUSF"]]},
+    labels[1]:{"texts":["파스타는 이탈리아 유명 요리이다"],
+            "videos":["https://youtu.be/-G478hXpaEk?si=V8RYcoWSRndMPUSF"]},
     labels[2]:{"texts":["피자는 이탈리아 유명 반죽 요리이다"],
                "videos":["https://youtu.be/5LsdZ3QTU0w?si=QgqKJAt8_auKrTzi"]},
 
